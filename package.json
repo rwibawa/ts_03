@@ -1,0 +1,11 @@
+{
+  "name": "ts_03",
+  "version": "1.0.0",
+  "description": "```bash\r $ mkdir ts_02\r $ cd ts_02\r $ npm i -g typescript\r $ tsc init\r $ code .\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
